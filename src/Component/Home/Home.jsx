@@ -50,7 +50,7 @@ const Home = () => {
                     </div>
                        
                      <div data-aos="flip-up" data-aos-duration="1200">
-                     <a download={true} href="https://drive.google.com/file/d/1fOtk03v_97vr-zTyLpLlSSKSqB_oZYwV/view?usp=download" className='hidden text-white border-[1px] border-r-[6px]   border-l-[6px] p-2 rounded-lg  border-[#a64da6] shadow-md shadow-[#993399] hover:bg-[#a64da6] hover:shadow-[0px] md:flex items-center gap-3 uppercase font-medium  py-2 px-4 hover:scale-x-105 duration-300'> DOWNLOAD CV<span className="text-purple-700"></span></a>
+                     <a download={true} href="https://drive.google.com/file/d/1fOtk03v_97vr-zTyLpLlSSKSqB_oZYwV/view?usp=download" className=' text-white border-[1px] border-r-[6px]   border-l-[6px] p-2 rounded-lg  border-[#a64da6] shadow-md shadow-[#993399] hover:bg-[#a64da6] hover:shadow-[0px] md:flex items-center gap-3 uppercase font-medium  py-2 px-4 hover:scale-x-105 duration-300'> DOWNLOAD CV<span className="text-purple-700"></span></a>
                      </div>
            
 
